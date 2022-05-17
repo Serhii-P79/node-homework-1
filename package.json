@@ -1,0 +1,30 @@
+{
+  "name": "homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii-P79/node-homework-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serhii-P79/node-homework-1/issues"
+  },
+  "homepage": "https://github.com/Serhii-P79/node-homework-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "commander": "^9.2.0",
+    "uuid": "^8.3.2"
+  }
+}
